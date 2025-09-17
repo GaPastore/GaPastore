@@ -1,6 +1,6 @@
 
-# Bem-vindo/welcome!
-## Sobre Mim/About Me
+# 👋 Bem-vindo/welcome!\
+## 👦 Sobre Mim/About Me
 ```yaml
 name: Gabriel Pastore
 from: Guarulhos - São Paulo
@@ -18,7 +18,7 @@ academic_background:
   "Computer Science bachelor's degree at Universidade São Judas Tadeu (2021-2025)" 
 ]
 ```
-## Ferramentas que uso/Tools that I work with
+## 💻 Ferramentas que uso/Tools that I work with
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" alt="photoshop" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-original.svg" alt="illustrator" width="45" height="45"/>
