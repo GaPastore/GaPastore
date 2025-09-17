@@ -35,7 +35,9 @@ academic_background:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="react" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" alt="react" width="45" height="45"/>
 </p>
-## Minha atividade no GitHub/My GitHub activity <!--<p align="left"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="react" width="10" height="10"/></p>-->
+
+## Minha atividade no GitHub/My GitHub activity 
+<!--<p align="left"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="react" width="10" height="10"/></p>-->
 
 ## Contato, Portfólio e mais/Contact, Portfolio and more
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=dfdf2cvfhqnfyg4fc9e5kcbe5&cover_image=true&theme=default&show_offline=false&background_color=690079&interchange=false&bar_color=e15df5&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=dfdf2cvfhqnfyg4fc9e5kcbe5&redirect=true)
