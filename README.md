@@ -1,5 +1,5 @@
 
-# 👋 Bem-vindo/welcome!\
+# 👋 Bem-vindo/welcome!
 ## 👦 Sobre Mim/About Me
 ```yaml
 name: Gabriel Pastore
