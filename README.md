@@ -18,6 +18,21 @@ academic_background:
   "Computer Science bachelor's degree at Universidade São Judas Tadeu (2021-2025)" 
 ]
 ```
+```html
+<name>Gabriel Pastore</name>
+<from>Guarulhos - São Paulo</from>
+<age>22 years old</age>
+<work-as>
+  <role>Game Dev</role>
+  <role>Web Dev</role>
+  <role>Designer</role>
+  <role>Video Editor</role>
+</work-as>
+<academic-background>
+  <course>IT Technician Course at Colégio ENIAC (2018-2020)</course>
+  <course>Computer Science bachelor's degree at Universidade São Judas Tadeu (2021-2025)</course> 
+</academic-background>
+```
 ## 💻 Ferramentas que uso/Tools that I work with
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" alt="photoshop" width="45" height="45"/>
