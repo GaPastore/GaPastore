@@ -1,36 +1,18 @@
-
 # 👋 Bem-vindo/welcome!
 ## 👦 Sobre Mim/About Me
-```yaml
-name: Gabriel Pastore
-from: Guarulhos - São Paulo
-age: 22 years old
-work_as:
-[
-  "Game Dev",
-  "Web Dev",
-  "Designer",
-  "Video Editor"
-]
-academic_background:
-[
-  "IT Technician Course at Colégio ENIAC (2018-2020)",
-  "Computer Science bachelor's degree at Universidade São Judas Tadeu (2021-2025)" 
-]
-```
 ```html
-<name>Gabriel Pastore</name>
-<from>Guarulhos - São Paulo</from>
-<age>22 years old</age>
+<name> Gabriel Pastore </name>
+<from> Guarulhos - São Paulo </from>
+<age> 22 years old </age>
 <work-as>
-  <role>Game Dev</role>
-  <role>Web Dev</role>
-  <role>Designer</role>
-  <role>Video Editor</role>
+  <role> Game Dev </role>
+  <role> Web Dev </role>
+  <role> Designer </role>
+  <role> Video Editor </role>
 </work-as>
 <academic-background>
-  <course>IT Technician Course at Colégio ENIAC (2018-2020)</course>
-  <course>Computer Science bachelor's degree at Universidade São Judas Tadeu (2021-2025)</course> 
+  <course> IT Technician Course at Colégio ENIAC (2018-2020) </course>
+  <course> Computer Science bachelor's degree at Universidade São Judas Tadeu (2021-2025) </course> 
 </academic-background>
 ```
 ## 💻 Ferramentas que uso/Tools that I work with
