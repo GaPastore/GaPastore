@@ -34,9 +34,9 @@
 </p>
 
 ## 🎯 Minha atividade no GitHub/My GitHub activity
-[![Anurag's GitHub stats](https://github-readme-stats-jade-five-33.vercel.app/api?username=gapastore&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-jade-five-33.vercel.app/api?username=gapastore&theme=transparent&card_width=700)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-jade-five-33.vercel.app/api/top-langs/?username=gapastore&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-jade-five-33.vercel.app/api/top-langs/?username=gapastore&theme=transparent&card_width=700)](https://github.com/anuraghazra/github-readme-stats)
 ## Contato, Portfólio e mais/Contact, Portfolio and more
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=dfdf2cvfhqnfyg4fc9e5kcbe5&cover_image=true&theme=default&show_offline=false&background_color=690079&interchange=false&bar_color=e15df5&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=dfdf2cvfhqnfyg4fc9e5kcbe5&redirect=true)
 
