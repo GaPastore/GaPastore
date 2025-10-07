@@ -38,9 +38,11 @@
 
 [![Top Langs](https://github-readme-stats-jade-five-33.vercel.app/api/top-langs/?username=gapastore&theme=transparent&card_width=700)](https://github.com/anuraghazra/github-readme-stats)
 
-## Contato, Portfólio e mais/Contact, Portfolio and more
+## 📲 Contato, Portfólio e mais/Contact, Portfolio and more
+### Clique aqui para acessar meu portfólio / Click here to access my portfolio 
 [<img src="portfolio.png" width="700">](https://gapastore.github.io/portfolio-gabriel-pastore/)
 
+### Links:
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="45" height="45">]([https://gapastore.github.io/portfolio-gabriel-pastore/](https://www.linkedin.com/in/gabriel-pastore-b11506206/))
 [<img src="https://icongr.am/entypo/instagram.svg?size=128&color=ffffff" width="45" height="45">](https://www.instagram.com/pastore_drawing)
 [<img src="https://static.itch.io/images/itchio-textless-white.svg" width="45" height="45">](https://static.itch.io/images/itchio-textless-white.svg)
