@@ -35,6 +35,7 @@
 
 ## 🎯 Minha atividade no GitHub/My GitHub activity
 [![Anurag's GitHub stats](github-readme-stats-jade-five-33.vercel.app/api?username=gapastore&theme=transparent&card_width=700)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](github-readme-stats-jade-five-33.vercel.app/api/top-langs/?username=gapastore&theme=transparent&card_width=700)](https://github.com/anuraghazra/github-readme-stats)
 ## Contato, Portfólio e mais/Contact, Portfolio and more
 [![Site Portfólio]](https://gapastore.github.io/portfolio-gabriel-pastore/)
