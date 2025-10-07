@@ -41,5 +41,9 @@
 ## Contato, Portfólio e mais/Contact, Portfolio and more
 [<img src="portfolio.png" width="700">](https://gapastore.github.io/portfolio-gabriel-pastore/)
 
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="45" height="45">]([https://gapastore.github.io/portfolio-gabriel-pastore/](https://www.linkedin.com/in/gabriel-pastore-b11506206/))
+
+[<img src="portfolio.png" width="700">](https://gapastore.github.io/portfolio-gabriel-pastore/)
+
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=dfdf2cvfhqnfyg4fc9e5kcbe5&cover_image=true&theme=spotify-embed&show_offline=false&background_color=690079&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=true&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=dfdf2cvfhqnfyg4fc9e5kcbe5&redirect=true)
 
