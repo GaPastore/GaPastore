@@ -37,6 +37,8 @@
 [![GitHub stats](https://github-readme-stats-jade-five-33.vercel.app/api?username=gapastore&theme=transparent&card_width=700)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats-jade-five-33.vercel.app/api/top-langs/?username=gapastore&theme=transparent&card_width=700)](https://github.com/anuraghazra/github-readme-stats)
+
+![snake gif](https://github.com/GaPastore/GaPastore/blob/output/github-contribution-grid-snake.svg)
 ## Contato, Portfólio e mais/Contact, Portfolio and more
 [<img src="portfolio.png" width="700">](https://gapastore.github.io/portfolio-gabriel-pastore/)
 
