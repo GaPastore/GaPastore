@@ -40,5 +40,5 @@
 ## Contato, Portfólio e mais/Contact, Portfolio and more
 [<img src="portfolio.png" width="700">](https://gapastore.github.io/portfolio-gabriel-pastore/)
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=dfdf2cvfhqnfyg4fc9e5kcbe5&cover_image=true&theme=default&show_offline=false&background_color=690079&interchange=false&bar_color=e15df5&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=dfdf2cvfhqnfyg4fc9e5kcbe5&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=dfdf2cvfhqnfyg4fc9e5kcbe5&cover_image=true&theme=spotify-embed&show_offline=false&background_color=690079&interchange=false&bar_color=e15df5&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=dfdf2cvfhqnfyg4fc9e5kcbe5&redirect=true)
 
