@@ -3,7 +3,7 @@
 ```html
 <name> Gabriel Pastore </name>
 <from> Guarulhos - São Paulo </from>
-<age> 22 years old </age>
+<age> 23 years old </age>
 <work-as>
   <role> Game Dev </role>
   <role> Web Dev </role>
